@@ -1,60 +1,89 @@
-# 👋 Hi, I'm Muhammad Ahmed
+<div align="center">
 
-I help **e-commerce brands** launch fast, high-converting **Shopify stores** with custom features their competitors don't have.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AB55C,100:512BD4&height=220&section=header&text=Muhammad%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Shopify%20%7C%20Web%20%7C%20Mobile%20%7C%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-🛒 **Shopify Development** — custom themes, app integrations, checkout optimization, performance tuning
-⚛️ **React.js & Blazor** — custom dashboards, admin panels, and web apps beyond what page builders can do
-📱 **Flutter** — cross-platform mobile apps with Firebase/Supabase backends
-🔌 **API Integration** — connecting stores and apps to payment gateways, CRMs, and third-party services
+<a href="https://linkedin.com/in/muhammadahmed6">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7AB55C&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Full-Stack+Developer;Shopify+%2B+React+%2B+Next.js+%2B+Blazor;Flutter+Mobile+Apps;DSA+%2F+C%2B%2B+%2F+Python+%2F+C%23;Open+for+Freelance+Work" alt="Typing SVG" />
+</a>
 
-I also have a strong technical foundation in systems programming, C++, and security tooling — happy to nerd out about that too, but client work is where I focus.
+<br/>
 
-📩 Open to freelance projects — let's talk about your store or app.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadahmed6)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/muhammadahmed2166)
 
----
-
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadahmed6)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/muhammadahmed2166)
+</div>
 
 ---
 
-## 🛠️ Core Stack
+### 🚀 What I Do
 
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary>🧠 Also comfortable with (systems / security / algorithms)</summary>
-<br>
+🛒 **Shopify Development**
+Custom themes, app integrations, checkout optimization, performance tuning
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/Assembly_x86-000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+🌐 **Full-Stack Web**
+HTML, React.js, Next.js, Blazor — marketing sites to full admin dashboards
 
-</details>
+</td>
+<td width="50%" valign="top">
+
+📱 **Flutter**
+Cross-platform mobile apps with Firebase/Supabase backends
+
+🔌 **API Integration**
+Payment gateways, CRMs, and third-party services
+
+</td>
+</tr>
+</table>
+
+🧠 **DSA & Systems Programming** — C++, Python, C#, algorithms, and low-level tooling
+
+📩 **Open to freelance projects** — let's talk about your store or app.
 
 ---
 
-## 🚀 Featured Work
+### 🛠️ Tech Stack
 
-* **[Edu-Verse](https://github.com/muhammmad-ahmed-dev/Edu-Verse)** — Full-stack Flutter + Firebase campus app: real-time marketplace, recruitment module, AI study planner, and admin-student communication system. Shows real-world full-stack mobile architecture.
-* **[ratekaropk](https://github.com/muhammmad-ahmed-dev/ratekaropk)** — Next.js + TypeScript web app solving a real business problem: freelancer rate benchmarking with automated tax calculations and AI-powered client proposal generation.
-* **[Shopify Store Build — coming soon]** — Custom Shopify theme project, in progress.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,blazor,dotnet,flutter,dart,firebase,supabase,vercel,shopify&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,cs,mongodb,mysql&theme=dark" />
+
+</div>
+
+---
+
+### 🌟 Featured Work
+
+<table>
+<tr>
+<td width="33%">
+
+**[Edu-Verse](https://github.com/muhammmad-ahmed-dev/Edu-Verse)**
+Full-stack Flutter + Firebase campus app — marketplace, recruitment module, AI study planner, admin-student communication
+
+</td>
+<td width="33%">
+
+**[ratekaropk](https://github.com/muhammmad-ahmed-dev/ratekaropk)**
+Next.js + TypeScript freelancer rate benchmarking with automated tax calc and AI proposal generation
+
+</td>
+<td width="33%">
+
+**Shopify Store Build**
+Custom Shopify theme project — coming soon 🚧
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary>🔧 Other technical projects (systems / security / algorithms)</summary>
@@ -69,15 +98,38 @@ I also have a strong technical foundation in systems programming, C++, and secur
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![Muhammad Ahmed's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=muhammmad-ahmed-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammmad-ahmed-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammmad-ahmed-dev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammmad-ahmed-dev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammmad-ahmed-dev&theme=dark&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammmad-ahmed-dev&theme=radical&hide_border=true" width="90%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammmad-ahmed-dev&theme=react-dark&hide_border=true" width="90%"/>
+
+</div>
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/muhammmad-ahmed-dev/muhammmad-ahmed-dev/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+> The snake animation needs a one-time GitHub Actions setup — see notes below.
+
+---
+
+<div align="center">
+
 📊 **Profile Views**
-![Visitor Count](https://komarev.com/ghpvc/?username=muhammmad-ahmed-dev&color=blue&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=muhammmad-ahmed-dev&color=7AB55C&style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:7AB55C&height=120&section=footer" width="100%"/>
+
+</div>
